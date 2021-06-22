@@ -1,0 +1,26 @@
+{
+    "news":[
+        {"id":1,"picture":"/images/cipmz-1.jpg", "title":"Mr Tambaoga Kachambwa Joins HIT as the New Finance Director","description":"Mr Tambaoga Kachambwa has joined the Harare Institute of Technology as the new Finance Director with effect from 01 June 2021. "},
+        {"id":2,"picture":"/images/takoradi.jpg", "title":"Takoradi Technical University Seeks Partnership","description":"Takoradi Technical University of Ghana is seeking to establish a working partnership with the Harare Institute of Technology in areas of staff and student exchanges, sharing of technologies and innovations as well as co-hosting of conferences in selected disciplines."},
+        {"id":3,"picture":"/images/Dr. Engr. T. Garikai .jpg", "title":"Appointment of Pro-Vice Chancellor Dr Engineer Talon Garikayi - Research, Innovation and Commercialisation","description":"Professor Amon Murwira has appointed Dr Engineer Talon Garikayi as Pro-Vice Chancellor responsible for Research, Innovation and Commercialisation with effect from 01 May 2021. "},
+        {"id":4,"picture":"/images/kachambwa1.jpg", "title":"Excellence In Engineering Education Award","description":"HIT Vice Chancellor Engineer Quinton Kanhukamwe was awarded the Excellence in Engineering Education Award by the Federation of African Engineering Organisations in collaboration with the Ghana Institution of Engineering at the 2020 General Assembly/Investiture Awards held in Ghana on 29 January"},
+        {"id":5,"picture":"/images/engineering-education-award-1.jpg", "title":"Project Management Achievements Awards 2020","description":"HIT scooped two awards at the Chartered Institute of Project Managers Zimbabwe's Project Management Achievements Awards 2020."},
+        {"id":6,"picture":"/images/president.jpg", "title":"President Mnangagwa Launches HIT Innovation Hub","description":"President Mnangagwa has commissioned the Harare Institute of Technology (HIT) Innovation Hub after touring the Institute’s start-up projects, applauding the University for contributing to the fight against Covid-19 through the production of prototype ventilators and various personal protective equipment. "},
+        {"id":7,"picture":"/images/first-capital-bank-.jpg", "title":"First Capital Bank Zimbabwe Donates Sanitiser Manufacturing Equipment","description":"First Capital Bank Zimbabwe has handed-over sanitisers manufacturing equipment to boost the manufacturing of sanitizers in the fight against the COVID-19 pandemic."}
+ 
+    ],
+    "users":[
+        {"id":1,"name":"Rivaldo", "surname":"Marere","RegNumber":"H190313x","password":"1234567890"},
+        {"id":1,"name":"Tadiwa", "surname":" Jongwe","RegNumber":"H192322r","password":"1111111111"},
+        {"id":1,"name":"Tinaye", "surname":"Mupinyuri","RegNumber":"H190340w","password":"0000000000"}
+
+    ],
+    "post":[
+        {"id":1,"club":"Current Affairs", "title":"New Cabbinate","Description":"H190313x"},
+        {"id":2,"name":"Rotaract", "surname":"Donations","Description":"H192322r"},
+        {"id":3,"name":"Debate", "surname":"Upcoming Event","Description":"H190340w"},
+        {"id":4,"club":"Say What", "title":"New Motto","Description":"H190313x"},
+        {"id":5,"name":"EMA", "surname":"2021 Theme","Description":"H192322r"},
+        {"id":6,"name":"Google DSC", "surname":"Hackerthon  Announcement","Description":"H190340w"}
+    ]
+}
